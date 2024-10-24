@@ -36,7 +36,7 @@
         <mxCell id="SJPjyQLBzvfO72jei53o-14" value="&lt;b&gt;&lt;i&gt;FICAMOS FELIZES EM PODER TE APRESENTAR NOSSOS SERVIÇOS E BENEFICIOS ! QUAL SEU INTERESSE?&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="525" y="360" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SJPjyQLBzvfO72jei53o-16" value="&lt;div&gt;&lt;b&gt;QUESTIONARIO?&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=#314354;fillColor=#647687;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+        <mxCell id="SJPjyQLBzvfO72jei53o-16" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;SUPORTE AGRONOMICO&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;SENSORES DE PLANTAÇÃO&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;BIOINSUMOS&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;PLANO DE AGRICULTURA&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;MAQUINAS AGRICOLAS&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#314354;fillColor=#647687;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="525" y="480" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="SJPjyQLBzvfO72jei53o-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SJPjyQLBzvfO72jei53o-7" target="SJPjyQLBzvfO72jei53o-14">
