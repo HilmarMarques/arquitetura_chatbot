@@ -36,7 +36,7 @@
         <mxCell id="SJPjyQLBzvfO72jei53o-14" value="&lt;b&gt;&lt;i&gt;FICAMOS FELIZES EM PODER TE APRESENTAR NOSSOS SERVIÇOS E BENEFICIOS ! QUAL SEU INTERESSE?&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="525" y="360" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SJPjyQLBzvfO72jei53o-16" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;SUPORTE AGRONOMICO&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;SENSORES DE PLANTAÇÃO&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;BIOINSUMOS&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;PLANO DE AGRICULTURA&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;MAQUINAS AGRICOLAS&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#314354;fillColor=#647687;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="SJPjyQLBzvfO72jei53o-16" value="&lt;div&gt;&lt;b&gt;QUESTIONARIO?&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=#314354;fillColor=#647687;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#ffffff;align=center;" vertex="1" parent="1">
           <mxGeometry x="525" y="480" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="SJPjyQLBzvfO72jei53o-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SJPjyQLBzvfO72jei53o-7" target="SJPjyQLBzvfO72jei53o-14">
@@ -45,8 +45,8 @@
         <mxCell id="SJPjyQLBzvfO72jei53o-30" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;CONSULTAR OU GERAR BOLETO&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;CONSULTAR FATURAMENTO&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;SOLICITAR NOTA FISCAL&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;RENEGOCIAÇÃO&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#314354;fillColor=#647687;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-330" y="200" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SJPjyQLBzvfO72jei53o-32" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;PLANEJAMENTO DE AREA&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;ANALISE DE CULTURAS&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;ANALISE DE SOLOS&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;IMPLEMENTAÇÃO DE BIOINSUMOS&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#314354;fillColor=#647687;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="360" width="240" height="80" as="geometry" />
+        <mxCell id="SJPjyQLBzvfO72jei53o-32" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;PROCEDIMENTOS FASES DA CULTURA&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;FEEDBACK SOBRE TRATAMENTOS&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#314354;fillColor=#647687;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="350" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SJPjyQLBzvfO72jei53o-36" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="10" y="350" width="230" height="80" as="geometry" />
@@ -78,7 +78,7 @@
         <mxCell id="SJPjyQLBzvfO72jei53o-43" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="SJPjyQLBzvfO72jei53o-36">
           <mxGeometry y="60" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SJPjyQLBzvfO72jei53o-44" value="FALAR COM ATENDENTE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=center;spacingLeft=5;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="SJPjyQLBzvfO72jei53o-43">
+        <mxCell id="SJPjyQLBzvfO72jei53o-44" value="SUPORTE COMERCIAL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=center;spacingLeft=5;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="SJPjyQLBzvfO72jei53o-43">
           <mxGeometry width="230" height="20" as="geometry">
             <mxRectangle width="230" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -89,16 +89,50 @@
         <mxCell id="SJPjyQLBzvfO72jei53o-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SJPjyQLBzvfO72jei53o-39" target="SJPjyQLBzvfO72jei53o-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SJPjyQLBzvfO72jei53o-53" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;MANUTENÇÃO DE TRATORES&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;SENSORES&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;IRRIGAÇAO&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PLACAS SOLARES&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#314354;fillColor=#647687;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="480" width="240" height="80" as="geometry" />
+        <mxCell id="SJPjyQLBzvfO72jei53o-53" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;CONSULTA DE NOVOS PROJETOS&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;SUPORTE / MANUTENÇAO&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#314354;fillColor=#647687;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="490" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SJPjyQLBzvfO72jei53o-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SJPjyQLBzvfO72jei53o-41" target="SJPjyQLBzvfO72jei53o-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SJPjyQLBzvfO72jei53o-56" value="&lt;b&gt;&lt;i&gt;&quot; EM ALGUNS MINUTOS UM DOS NOSSOS CONSULTORES IRA LHE AUXILIAR&quot;&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry y="570" width="230" height="60" as="geometry" />
+          <mxGeometry x="-180" y="610" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SJPjyQLBzvfO72jei53o-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SJPjyQLBzvfO72jei53o-43" target="SJPjyQLBzvfO72jei53o-56">
+        <mxCell id="SJPjyQLBzvfO72jei53o-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SJPjyQLBzvfO72jei53o-58" target="SJPjyQLBzvfO72jei53o-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJPjyQLBzvfO72jei53o-67" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;SOLICITAR MATERIAL DE APOIO&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;PORTIFÓLIO DE PRODUTOS&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;NOVAS NEGOCIAÇÕES&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#314354;fillColor=#647687;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="174" y="670" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SJPjyQLBzvfO72jei53o-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SJPjyQLBzvfO72jei53o-43" target="SJPjyQLBzvfO72jei53o-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJPjyQLBzvfO72jei53o-58" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="10" y="450" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SJPjyQLBzvfO72jei53o-65" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="SJPjyQLBzvfO72jei53o-58">
+          <mxGeometry width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SJPjyQLBzvfO72jei53o-66" value="FALAR COM ATENDENTE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=center;spacingLeft=5;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="SJPjyQLBzvfO72jei53o-65">
+          <mxGeometry width="230" height="20" as="geometry">
+            <mxRectangle width="230" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJPjyQLBzvfO72jei53o-70" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="10" y="430" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SJPjyQLBzvfO72jei53o-71" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="SJPjyQLBzvfO72jei53o-70">
+          <mxGeometry width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SJPjyQLBzvfO72jei53o-72" value="SUPORTE QUALIDADE ONFARM" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=center;spacingLeft=5;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="SJPjyQLBzvfO72jei53o-71">
+          <mxGeometry width="230" height="20" as="geometry">
+            <mxRectangle width="230" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJPjyQLBzvfO72jei53o-73" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;PROCESSOS DE MULTIPLICAÇÃO&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;CONSULTAS DE ANALISES E LAUDOS&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#314354;fillColor=#647687;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="254" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SJPjyQLBzvfO72jei53o-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SJPjyQLBzvfO72jei53o-71" target="SJPjyQLBzvfO72jei53o-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
